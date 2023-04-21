@@ -1,0 +1,104 @@
+.body1{
+    background-color: rgb(151, 233, 88);
+    text-align: center;
+}
+
+.foot1{
+    background-color: rgb(109, 109, 218);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:larger;
+}
+
+.hdimg{
+    text-align: center;
+}
+
+.navbar navbar-expand-lg bg-body-tertiary{
+    background-color: aquamarine;
+}
+
+.mav{
+    background-color: aqua;
+    overflow: hidden;
+    color: black;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+  
+.topnav a {
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.topnav a:hover {
+    background-color: #de4e4e;
+    color: black;
+}
+  
+.topnav a.active {
+    background-color: #2dc1f7;
+    color: white;
+}
+
+.accountsinfo,th,tr,td{
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: greenyellow;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.t1{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hd1{
+    font-size: large;
+    font-family: cursive;
+    text-align: center;
+}
+
+.tablerow{
+    color:black;
+    background-color: white;
+}
+
+.tablehead{
+    background-color: rgb(104, 233, 104);
+    color: black;
+}
+
+.def1{
+    color: rgb(1, 4, 4);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
+
+.mid{
+    text-align: center;
+}
+
+.button1 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .p1{
+    font-size: larger;
+    color: #ed17d8;
+    font-family: fantasy;
+  }
